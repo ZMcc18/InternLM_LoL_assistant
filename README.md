@@ -8,7 +8,7 @@
 &emsp;&emsp;LOL智能小助手是利用op.gg上的部分数据，与B站中的视频攻略，基于[InternLM](https://github.com/InternLM/InternLM.git)进行LoRA微调与RAG完成的LOL智能小助手问答demo。
 
 
-
+![image](https://github.com/ZMcc18/InternLM_LoL_assistant/blob/main/pictures/OIP.jpg)
 
 
 ## 数据集
